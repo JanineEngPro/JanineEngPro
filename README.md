@@ -22,7 +22,7 @@
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="50" width="50" src="https://github.com/JanineEngPro/JanineEngPro/blob/main/ImgFerrGestao.png">
   <img align="center"  height="50" width="60" src="https://github.com/JanineEngPro/JanineEngPro/blob/main/rosaceaPretaForte.png">
-  <img align="center"  height="50" width="60" src="">
+  <img align="center"  height="50" width="60" src="https://github.com/JanineEngPro/JanineEngPro/blob/main/ImgSql.png">
 </div>
   
   <div style="display: inline_block" ><br>
