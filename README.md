@@ -7,7 +7,7 @@
 - ♡  Desenvolvedora Front_End.
 - ❃ Trabalho na empresa Eng_Pro_|.
 - 🤑 Ajudo empresa brasileiras a melhorarem seus processos produtivos por meio de análise dos dados.
--->
+
 <div align="center">
   <a href="https://github.com/janineEngPro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janineengpro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
