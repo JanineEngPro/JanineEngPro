@@ -21,7 +21,7 @@
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="50" width="50" src="https://github.com/JanineEngPro/JanineEngPro/blob/main/ImgFerrGestao.png">
-  <img align"center"   height="40" width="60" src="https://github.com/JanineEngPro/JanineEngPro/blob/main/rosaceanFundo.png">
+  <img align="center"  height="50" width="60" src="https://github.com/JanineEngPro/JanineEngPro/blob/main/rosaceaPretaForte.png">
 </div>
   
   <div style="display: inline_block" ><br>
